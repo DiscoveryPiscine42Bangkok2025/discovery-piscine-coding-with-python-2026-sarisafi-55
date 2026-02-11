@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 # ไม่มี parameter
 if len(sys.argv) == 1:
@@ -13,3 +14,4 @@ else:
     # กรณีมี parameter แต่โดนข้ามหมด
     if not printed:
         print("none")
+
