@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 while True:
     user_input = input("What you gotta say?: ")
 
@@ -5,3 +6,4 @@ while True:
         break
 
     print("I got that! Anything else?")
+
