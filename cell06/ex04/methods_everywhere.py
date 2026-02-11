@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 
 def shrink(s):
@@ -16,3 +17,4 @@ else:
             enlarge(arg)
         else:
             print(arg)
+
