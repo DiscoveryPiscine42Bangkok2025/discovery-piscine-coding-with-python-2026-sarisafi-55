@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 # ต้องมี parameter แค่ 1 ตัว
 if len(sys.argv) != 2:
@@ -14,3 +15,4 @@ else:
         print("none")
     else:
         print('z' * count)
+
