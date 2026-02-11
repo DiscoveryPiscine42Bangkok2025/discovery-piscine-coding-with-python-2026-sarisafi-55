@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 
 # ถ้าไม่มี parameter
@@ -9,3 +10,4 @@ else:
 
     for p in params:
         print(f"{p}: {len(p)}")
+
