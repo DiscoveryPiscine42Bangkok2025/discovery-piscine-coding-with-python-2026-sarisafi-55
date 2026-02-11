@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 
 # ต้องมี parameter แค่ 1 ตัว
@@ -11,3 +12,4 @@ else:
         print("Good job!")
     else:
         print("Nope, sorry...")
+
