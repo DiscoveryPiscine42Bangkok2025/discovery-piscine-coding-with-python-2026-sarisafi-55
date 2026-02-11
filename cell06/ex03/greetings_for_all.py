@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def greetings(name="noble stranger"):
     if not isinstance(name, str):
         print("Error! It was not a name.")
@@ -9,3 +10,4 @@ greetings("Alexandra")
 greetings("Will")
 greetings()
 greetings(42)
+
